@@ -1,0 +1,24 @@
+.head {
+    height: 73px;
+    width:100%;
+    background-color: white;
+    border-bottom: 1px solid #DDDDDD;
+}
+.headButton {
+    font: bold;
+    width: 8rem;
+    height: 42px;
+    border: rgb(149, 149, 236) 1px solid;
+    border-radius: 8px;
+    top: 15px;
+    position: absolute;
+}
+.home {
+    left: 28px;
+}
+.document {
+    right: 11rem;
+}
+.logout {
+    right:2rem;
+}
